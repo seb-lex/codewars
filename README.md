@@ -1,4 +1,6 @@
-﻿## How It's Made:
+﻿# To View My CodeWars Challenges, <a target="_blank" href="https://www.codewars.com/users/seb-lex">Click Here</a> 
+ 
+ ## How It's Made:
 
 **Tech used:** <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript"/>
 
